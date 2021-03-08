@@ -1,0 +1,1 @@
+Test-driven development to technika tworzenia oprogramowania, jedna z metodyk programowania zwinnego. Polega na rozpoczęciu programowania od testów funkcjonalności, dopiero później wprowadza się daną funkcjonalność, a następnie ulepsza (oczyszcza, porządkuje) kod.

@@ -1,0 +1,2 @@
+Wymagania funkcjonalne dotyczą opisu czynności, operacji, usług wykonywanych przez system. 
+Wymagania niefunkcjonalne (jakościowe) dotyczą właściowości systemu, definiuje się nimi ograniczenia systemu.

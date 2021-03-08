@@ -1,0 +1,1 @@
+Kanban opiera się na ciągłej, płynnej pracy, a scrum zakłada pracę w sprintach, po zakończeniu których widoczne postępy konsultowane są z klientem. 
